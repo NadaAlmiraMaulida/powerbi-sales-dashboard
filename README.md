@@ -73,20 +73,32 @@ The Power BI dashboard includes the following visual components:
 
 powerbi-sales-dashboard/
 │
+
 ├── data/
+
 │ ├── raw/
+
 │ └── clean/
 │
+
 ├── dashboard/
+
 │ └── sales-dashboard.pbix
+
 │
 ├── screenshots/
+
 │ └── dashboard-overview.png
+
 │
 ├── documentation/
+
 │ └── report.pdf
+
 │
 └── README.md
+
+
 
 ## How to Use This Project
 
